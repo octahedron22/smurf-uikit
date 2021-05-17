@@ -25,7 +25,7 @@ import { light, dark } from 'octahedron22/smurf-uikit'
 A reset CSS is available as a global styled component.
 
 ```
-import { ResetCSS } from '@blzd-dev/uikit'
+import { ResetCSS } from 'octahedron22/smurf-uikit'
 ...
 <ResetCSS />
 ```
